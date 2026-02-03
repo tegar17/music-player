@@ -66,3 +66,6 @@ venv\Scripts\activate     # Windows
 ```bash
 pip install requirements.txt
 ```
+
+## 🎬 Preview
+https://github.com/user-attachments/assets/8cb1b5a4-7eef-4b66-bff1-ffebb3ed3dbd
